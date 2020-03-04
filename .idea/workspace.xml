@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca2cadd0-16e8-4868-9387-ce316359e540" name="Default Changelist" comment="" />
+    <list default="true" id="ca2cadd0-16e8-4868-9387-ce316359e540" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/qam/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qam/qam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optical_ofdm/optical_ofdm.py" beforeDir="false" afterPath="$PROJECT_DIR$/optical_ofdm/optical_ofdm.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YcuRdcIcYJILO1xMHQZ7CqsjdN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +32,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/optical_ofdm" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Khalighi-GSM\PycharmProjects\Untitled3\optical_ofdm" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.optical_ofdm">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,9 +62,53 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="optical_ofdm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/optical_ofdm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/optical_ofdm/optical_ofdm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qam/qam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.optical_ofdm" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.qam" />
       </list>
     </recent_temporary>
   </component>
@@ -75,46 +134,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="722" y="401" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583254927746" />
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1583258091674">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1583338411872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583258091674" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583338411872" />
     <state width="1362" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1583255581856" />
-    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1583258091674">
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1583338411872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583258091674" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583338411872" />
     <state width="1362" height="328" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1583255581856" />
-    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1583258091674">
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1583338411871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583258091674" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583338411871" />
     <state width="1362" height="328" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1583255581856" />
-    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1583258091674">
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1583338411872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583258091674" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583338411872" />
     <state width="1362" height="328" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1583255581856" />
-    <state width="1362" height="328" key="GridCell.Tab.1.bottom" timestamp="1583255581857">
-      <screen x="1920" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1362" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1583255581857" />
-    <state width="1362" height="328" key="GridCell.Tab.1.center" timestamp="1583255581857">
-      <screen x="1920" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1362" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1583255581857" />
-    <state width="1362" height="328" key="GridCell.Tab.1.left" timestamp="1583255581856">
-      <screen x="1920" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1362" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1583255581856" />
-    <state width="1362" height="328" key="GridCell.Tab.1.right" timestamp="1583255581857">
-      <screen x="1920" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1362" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1583255581857" />
-    <state x="663" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1583256592482">
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1583336620808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="663" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583256592482" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583336620808" />
+    <state width="1362" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1583255581857" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1583336620808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583336620808" />
+    <state width="1362" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1583255581857" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1583336620808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583336620808" />
+    <state width="1362" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1583255581856" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1583336620808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583336620808" />
+    <state width="1362" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1583255581857" />
+    <state x="663" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1583316893699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="663" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1583316893699" />
     <state x="588" y="196" width="710" height="732" key="find.popup" timestamp="1583256517465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
